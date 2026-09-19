@@ -1,3 +1,15 @@
-theme: jekyll-theme-minimal
-title: j-ack999's homepage
-description: My personal website
+---
+layout: default
+title: Jack
+---
+
+# Hi, I'm Jack
+
+Second year student of Biomedical Engineering at King's College London, with an interest in statistics and machine learning, and its applications to healthcare and finance 
+
+## Learn more about me
+
+- [GitHub](https://github.com/j-ack999)
+- [LinkedIn](https://www.linkedin.com/in/jack-walker-aab8982ba/)
+- [CV](./cv/pdf)
+  
