@@ -14,9 +14,9 @@ Second-year Biomedical Engineering student at King's College London, with an int
 
 ## Interests
 
-- Statistics & Machine Learning
-- Quantitative Finance
-- Healthcare Technology
+- Statistics & Machine Learning [Learning CNN's](https://github.com/j-ack999/cnn_pytorch) 
+- Healthcare Technology [CAD Project](https://github.com/j-ack999/j-ack999.github.io/blob/main/Screenshot%202026-09-19%20174545.png)
+- Mathematical Modelling
 
 ## Get in Touch
 
