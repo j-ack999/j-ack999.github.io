@@ -7,9 +7,10 @@ title: Jack Walker
 
 Second-year Biomedical Engineering student at King's College London, with an interest in statistics and machine learning, and their applications to healthcare and finance.
 
-## About Me
-
-I'm currently studying Biomedical Engineering at King's College London. My interests sit at the intersection of engineering, data, and quantitative reasoning — I enjoy exploring how statistical and machine learning methods can be applied to real-world problems in healthcare and finance.
+## Relevant Grades and Results
+- Computational Statistics Programming Examination - 99% 
+- Mathematics for Biomedical Engineers (Multivariate Calculus, Linear Algebra) - 84%
+- Electrical Engineering - 74% 
 
 ## Interests
 
