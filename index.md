@@ -64,7 +64,7 @@ I'm a second-year Biomedical Engineering student at King's College London, with 
 
 ## What am I up to?
 
-Alongside studies I am currently further building my knowledge on neural networks by developing a convolutional neural network which I hope to use in the classification of brain tumours. This is in the early stages however you can see my progress [here](https://github.com/j-ack999/brainTumourNN)
+Alongside studies I am currently further building my knowledge on neural networks by developing a convolutional neural network which I hope to use in the classification of brain tumours. This is in the early stages, however, you can see my progress [here](https://github.com/j-ack999/brainTumourNN)
 
 ## Relevant Grades and Results
 
@@ -73,9 +73,9 @@ Alongside studies I am currently further building my knowledge on neural network
 - Electrical Engineering - 74%
 
 
-## Hackathons
+## Hackathons and Collaborative Projects 
 
-Write about what happened at the hackathon here.
+HardwareHacks '26 - Myself and a team of 3 other people worked for around 32 hours to repurpose an old printer into a goalkeeper game, where the goalie moves in the direction of the ball in order to try and save it. This was ran on an ESP32
 
 <div class="gallery">
   <img src="{{ '/IMG_3E0FD535-787C-4B8C-91FE-A2B42362A7CB.jpeg' | relative_url }}" alt="Hackathon photo 1">
