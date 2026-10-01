@@ -29,6 +29,19 @@ title: Jack Walker
     .page { flex-direction: column; }
     .sidebar { flex: none; width: 100%; position: static; box-sizing: border-box; }
   }
+
+    .gallery {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+    gap: 1rem;
+    margin: 1rem 0;
+  }
+  .gallery img {
+    width: 100%;
+    height: 220px;
+    object-fit: cover;      /* crops to a tidy grid; use "contain" to avoid cropping */
+    border-radius: 8px;
+  }
 </style>
 
 <div class="page">
@@ -58,6 +71,17 @@ Alongside studies I am currently further building my knowledge on neural network
 - Computational Statistics Programming Examination - 99%
 - Mathematics for Biomedical Engineers (Multivariate Calculus, Linear Algebra) - 84%
 - Electrical Engineering - 74%
+
+
+## Hackathons
+
+Write about what happened at the hackathon here.
+
+<div class="gallery">
+  <img src="{{ '/IMG_3E0FD535-787C-4B8C-91FE-A2B42362A7CB.jpeg' | relative_url }}" alt="Hackathon photo 1">
+  <img src="{{ '/IMG_6382.jpeg' | relative_url }}" alt="Hackathon photo 2">
+</div>
+
 
 </div>
 
