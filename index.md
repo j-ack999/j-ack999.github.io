@@ -12,11 +12,9 @@ Second-year Biomedical Engineering student at King's College London, with an int
 - Mathematics for Biomedical Engineers (Multivariate Calculus, Linear Algebra) - 84%
 - Electrical Engineering - 74% 
 
-## Interests
+## What am I up to? 
 
-- Statistics & Machine Learning -  [Learning CNN's](https://github.com/j-ack999/cnn_pytorch) 
-- Healthcare Technology - [CAD Coursework](./Screenshot%202026-09-19%20174545.png)
-- Mathematical Modelling
+Alongside studies I am currently further building my knowledge on neural networks by developing a convolutional neural network which I hope to use in the classification of brain tumours. This is in the early stages however you can see my progress [here](https://github.com/j-ack999/brainTumourNN)
 
 ## Useful Links
 
