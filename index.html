@@ -370,6 +370,18 @@ title: Jack Walker
       font-size: 0.9rem;
     }
     footer .actions { justify-content: center; margin: 0 0 1.5rem; }
+    .ascii {
+      display: inline-block;
+      margin: 2.5rem 0 0;
+      text-align: left;
+      font-family: ui-monospace, 'Cascadia Code', Consolas, Menlo, monospace;
+      font-size: 0.7rem;
+      line-height: 1.25;
+      color: var(--muted);
+      opacity: 0.45;
+      transition: opacity 0.5s, color 0.5s;
+    }
+    .ascii:hover { opacity: 1; color: var(--accent); }
 
     /* ---------- scroll reveal ---------- */
     .js .reveal {
@@ -520,6 +532,28 @@ title: Jack Walker
         <a class="btn" href="{{ '/cv.pdf' | relative_url }}" target="_blank" rel="noopener">CV</a>
       </div>
       <p>© <span id="year">2026</span> Jack Walker</p>
+      <pre class="ascii" aria-hidden="true">
+     O----O----O
+    / \  / \  / \
+   /   \/   \/   \
+  /    /\   /\    \
+ /    /  \ /  \    \
+O----O----O----O----O
+ \  / \  / \  / \  /
+  \/   \/   \/   \/
+  /\   /\   /\   /\
+ /  \ /  \ /  \ /  \
+O----O----O----O----O
+ \  / \  / \  / \  /
+  \/   \/   \/   \/
+  /\   /\   /\   /\
+ /  \ /  \ /  \ /  \
+O----O----O----O----O
+ \    \  / \  /    /
+  \    \/   \/    /
+   \   /\   /\   /
+    \ /  \ /  \ /
+     O----O----O</pre>
     </div>
   </footer>
 
