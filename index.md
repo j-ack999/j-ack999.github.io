@@ -42,6 +42,33 @@ title: Jack Walker
     object-fit: cover;      /* crops to a tidy grid; use "contain" to avoid cropping */
     border-radius: 8px;
   }
+
+    .hero {
+    display: flex;
+    align-items: center;
+    gap: 1.5rem;
+    padding: 2.5rem 1.5rem;
+    margin-bottom: 1.5rem;
+    border-radius: 10px;
+    color: #fff;
+    /* dark overlay keeps the text readable over any background photo */
+    background:
+      linear-gradient(rgba(0,0,0,0.45), rgba(0,0,0,0.45)),
+      url('{{ "/bg.jpg" | relative_url }}') center / cover no-repeat;   /* <-- bg filename */
+  }
+  .hero img {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 3px solid #fff;
+    flex-shrink: 0;
+  }
+  .hero h1 { margin: 0; color: #fff; }
+
+  @media (max-width: 700px) {
+    .hero { flex-direction: column; text-align: center; padding: 1.5rem 1rem; }
+  }
 </style>
 
 <div class="page">
@@ -58,7 +85,10 @@ title: Jack Walker
 
 <div class="main" markdown="1">
 
-# Hi, I'm Jack
+<div class="hero">
+  <img src="{{ '/pfp.jpg' | relative_url }}" alt="Photo of Jack Walker">   <!-- pfp filename -->
+  <h1>Hi, I'm Jack</h1>
+</div>
 
 I'm a second-year Biomedical Engineering student at King's College London, with an interest in statistics and machine learning, and their applications to healthcare and finance.
 
